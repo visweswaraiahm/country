@@ -1,4 +1,8 @@
 states
 districts
 corporations
+mandals 
+panchayatis
+villages
+streets
 etc
